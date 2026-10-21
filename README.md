@@ -2,7 +2,7 @@
 
 # David Del Pozo
 
-### Senior Frontend Engineer · React & Next.js · AI Integrations
+### Frontend Engineer · React & Next.js · AI Integrations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-david--del--pozo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-del-pozo/)
 
