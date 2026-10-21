@@ -13,11 +13,11 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Daviddpc92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daviddpc92&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
-</div>div>
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddpc92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>div>
+</div>
 
 ---
 
